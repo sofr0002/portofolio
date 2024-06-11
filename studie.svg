@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 182 90">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #d98e31;
+        stroke-width: 0px;
+      }
+
+      .cls-2 {
+        letter-spacing: -.02em;
+      }
+
+      .cls-3 {
+        fill: #000;
+        font-family: Kanit-Thin, Kanit;
+        font-size: 48px;
+        font-weight: 200;
+      }
+    </style>
+  </defs>
+  <rect class="cls-1" width="182" height="90"/>
+  <text class="cls-3" transform="translate(16.1 59.4)"><tspan class="cls-2" x="0" y="0">S</tspan><tspan x="25.25" y="0">TUDIE</tspan></text>
+</svg>
